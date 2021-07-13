@@ -1,0 +1,16 @@
+
+O Desafio consiste em ser criativo e criar a pagina Landing Page Test.png em HTML, Css, Bootstrap e JQuery.
+
+
+
+--> Requisitos.
+
+-> Responsivel para mobile e Web
+-> Codigo Simples/legivel.
+-> Escreva seu próprio codigo.
+
+
+
+:-) Nao queira ser perfeccionista, apenas de o seu máximo.
+
+--> Publicar na conta pessoal do git Hub e compartillhar o link com o recruiter após concluído.

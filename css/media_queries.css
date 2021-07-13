@@ -1,0 +1,95 @@
+@media(max-width:800px){
+    .navbar-brand{
+        width: 51%;
+    }
+    #logo1{
+     width: 80%;
+ }
+    #part4{
+        flex-wrap: wrap;
+    }
+    .locale{
+        margin-top: 25px;
+    }
+    .user-data, .mensagem, .botao{
+        width: 65%;
+    }
+   
+}
+@media(max-width:715px){
+    .line1{
+        margin-left: 15%;
+    }
+}
+@media (max-width: 500px){
+.line1{
+    margin-left: 10%;        
+    font-size: 10px;
+}
+#abc{
+    font-size: 145%;
+}
+.user-data, .mensagem, .botao{
+    width: 80%;
+}
+
+}
+@media (max-width: 420px){
+    .line1{
+        margin-left: 2%;        
+        font-size: 10px;
+    }
+    #abc{
+        font-size: 145%;
+    }
+}
+@media (max-width: 380px) {
+    
+    .line1{
+        margin-left: 2%;        
+        font-size: 10px;
+    }
+    #abc{
+        font-size: 145%;
+    }
+    .paragrafo1{
+        margin-left: 7%;
+        margin-right: 7%;
+        font-size: 80%;
+        margin-bottom:25px;
+    }
+    .img-center{
+        width: 30%;
+    }
+    .title-list{
+        font-size: 100%;
+    }
+    .text-list{
+        font-size:80%;
+    }
+    #part4{
+        flex-wrap: wrap;
+    }
+    .locale{
+        margin-top: 25px;
+    }
+    .logo-rodape{
+        margin-left: 4%;
+    }
+    .social{
+        margin-right: 20%;
+        
+    }
+    .line1{
+        margin-left: 2%;        
+        font-size: 8px;
+    }
+   
+}
+@media (max-width: 320px){
+    .line1{
+        margin-left: 2%;        
+        font-size: 8px;
+    }
+   
+}

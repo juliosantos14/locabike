@@ -1,0 +1,198 @@
+.container{  
+    background-color: #27d774;    
+}
+#nav-container{   
+    background-color: #27d774;
+}
+#row{
+    width: 100%;
+    
+ }
+.nav-link{
+    font-size: 25px;
+   
+}
+.nav-item {
+    padding: 20px;
+}
+
+
+.navbar-nav{
+    margin-right: 85px;
+    
+}
+.navbar-brand{
+    margin-left: 10%;
+}
+
+.anime{
+    opacity: 0;
+    transform: translate3d(-100px,0,0);
+    transition: .4s;
+}
+.anime-start{
+    opacity:1;
+    transform: translate3d(0,0,0);
+}
+
+#title1, #title2{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 2%;
+    color: #3b3b3b;
+}
+.bycicle{
+    margin-right: 15px;
+}
+.paragrafo1{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    color: #3b3b3b;
+}
+h5, p, .botao{
+    color: #555454;
+}
+.line1{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+#part3{
+    background-color: #27d774;
+    align-items: center;
+    padding: 20px;
+    
+    
+}
+
+.img-center{
+    border-radius: 52px;
+}
+.gift-one, .gift-three{
+    
+    display: flex;
+    align-items: center;
+    margin-left: auto;   
+    padding: 20px;
+    margin-right: auto;
+   
+}
+
+.gift-two, .gift-four{
+    float: right;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+    padding: 20px;
+}
+.flexbox, .flexbox2{
+    display: flex;
+    max-width: 100%;
+    flex-wrap: wrap;    
+    
+}
+.gift-one-text, .gift-two-text, .gift-three-text, .gift-four-text{
+    margin-left: 12px;
+}
+
+#part3::after{
+    display: inline-block;
+    width: 100%;
+
+}
+#part4{    
+    display: flex;    
+    background-color: white;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.contact{
+    text-align: center;
+    margin-left: auto;
+    width: 50%;  
+     
+}
+.locale{
+    
+    text-align: center;
+    width: 50%; 
+    margin-right: auto;
+}
+.user-data{
+    margin-bottom: 8px;
+    border: solid 4px #27d774;
+    width: 50%;
+    color: #555454;
+    
+
+}
+
+.user-mesage{
+    margin-bottom: 5px;
+    border: solid 4px #27d774;
+    width: 50%;
+    height: 70%;
+    color: #555454;
+    text-align: end;
+    
+}
+.text4{
+    margin-bottom: 28px;
+}
+.botao{
+    width: 50%;
+    background-color: #27d774;
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;    
+}
+.user-data,.mensagem::-webkit-input-placeholder{
+    padding: 5px;
+    
+}
+
+.mensagem{
+    width: 50%;
+    border: solid 4px #27d774;
+}
+
+.adress{
+    margin-top: 35px;
+}
+
+footer{
+        background-color: #3b3b3b;
+        height: 60px;
+}
+.rodape{
+    display: flex;
+}
+.logo-fim, .social{
+   max-width: 50%;
+}
+.logo-rodape{
+    width: 120px;
+    margin-left:100px;
+    margin-top: 10px;
+}
+.social{
+    margin-top: 22px;
+    margin-left: auto;
+    margin-right: 100px;
+    
+}
+.wpp, .insta{    
+    width: 20px;
+}
+#part4 .contact, .locale{
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+
+
+
